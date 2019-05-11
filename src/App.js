@@ -4,7 +4,6 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Azul fell-awen</h1>
       <h1>React Transition Group</h1>
     </div>
   );
